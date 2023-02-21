@@ -354,6 +354,27 @@ a {
 
 /*-------------------- END INVITE --------------------*/
 
+/*-------------------- FEEDBACK --------------------*/
+
+.feedback {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.review {
+    width: 80%;
+    min-height: 70px;
+    padding: 15px;
+
+    border-radius: 20px;
+    box-shadow: 0 14px 35px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.1);
+}
+
+/*-------------------- END FEEDBACK --------------------*/
+
 /*-------------------- FOOTER --------------------*/
 
 .footer {
